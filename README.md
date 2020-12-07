@@ -50,6 +50,7 @@ The purpose of this low-fidelity prototype is to test the user interface with th
 
 ## High-fildelity Prototype. 
 [![image](777777.png)](https://xd.adobe.com/view/5192e737-87be-4c33-bd8c-1007db9afc05-04c1/?fullscreen&hints=off)    
+[![Pitch Video](url-image)](https://youtu.be/uC4VnwqTMFY)
 please click on the image for the prototype   
 [To view the full high-fidelity](https://github.com/geeyunchae/DH150-Assignment7)  
 ## Evaluation and Revision History
