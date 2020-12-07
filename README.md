@@ -47,6 +47,6 @@ The purpose of this low-fidelity prototype is to test the user interface with th
 ![image](6.png)
 
 ## High-fildelity Prototype
-[![image](77.png)](https://xd.adobe.com/view/5192e737-87be-4c33-bd8c-1007db9afc05-04c1/?fullscreen&hints=off)  
+[![image](777.jpg)](https://xd.adobe.com/view/5192e737-87be-4c33-bd8c-1007db9afc05-04c1/?fullscreen&hints=off)  
 
 ## Evaluation and Revision History
