@@ -11,7 +11,7 @@ The theme of "happiness of middle-aged women" allowed me to come up with this id
 ## Competitor analysis: Heuristic Evaluation
 The design element that I put my focus was the to make the app easy to navigate. Through field research, I was able to realize that many of the users did not use the recipe website frequently becuase of their unfamiliarity with the design layout and it was somewhat confusing to use. I chose one website and an app to evaluate and to find out what important factors that I need to focus in order to make the app accessible. The two reference will be a cooking recipe website "delish" and cooking recipe app "Mealime". 
 
-!image[1.png]!image[2.png]. 
+![image](1.png)![image](2.png).  
 
 ## Competitor analysis: Usability Testing
 
@@ -29,9 +29,9 @@ The UX storytelling is a powerful tool that allows to shift one's perspective in
 Features proposed for UX design:
 - Easier access throughout the web with consistency (in design/ layout)
 - Efficient design to let the users do grocery shopping through the app.
-[!image](3.png)  
-[!image](4.png)  
-[!image](5.png)  
+![image](3.png)  
+![image](4.png)  
+![image](5.png)  
 
 Jane's Scenario  
 Jnae is 50 years old and hse is mother of 2 kids. She lives in the metropolitan area of Los Angeles and works as an insurance agent. During this unpleasant time, she lacks time of working and also having to care of their children at home due to schools closing down. She mostly take cares of her lunch from take out food and struggles to take balanced meals.   
@@ -44,9 +44,9 @@ The purpose of this low-fidelity prototype is to test the user interface with th
 - to learn how to use low-fidelity prototyping in the earrly stages of design.
 
 ### Wireframe and Graphical Design Element Variation
-[!image](6.png)
+![image](6.png)
 
 ## High-fildelity Prototype
-[![image](7.png)](https://xd.adobe.com/view/5192e737-87be-4c33-bd8c-1007db9afc05-04c1/?fullscreen&hints=off)  
+[![image](77.png)](https://xd.adobe.com/view/5192e737-87be-4c33-bd8c-1007db9afc05-04c1/?fullscreen&hints=off)  
 
 ## Evaluation and Revision History
