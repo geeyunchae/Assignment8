@@ -11,7 +11,7 @@ The theme of "happiness of middle-aged women" allowed me to come up with this id
 ## Competitor analysis: Heuristic Evaluation
 The design element that I put my focus was the to make the app easy to navigate. Through field research, I was able to realize that many of the users did not use the recipe website frequently becuase of their unfamiliarity with the design layout and it was somewhat confusing to use. I chose one website and an app to evaluate and to find out what important factors that I need to focus in order to make the app accessible. The two reference will be a cooking recipe website "delish" and cooking recipe app "Mealime". 
 
-![image](1.png)![image](2.png).  
+![image](22.png)![image](1.png).  
 
 ## Competitor analysis: Usability Testing
 
