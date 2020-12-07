@@ -29,7 +29,7 @@ The UX storytelling is a powerful tool that allows to shift one's perspective in
 Features proposed for UX design:
 - Easier access throughout the web with consistency (in design/ layout)
 - Efficient design to let the users do grocery shopping through the app.
-![image](3.png)  
+![image](33.png)  
 ![image](4.png)  
 ![image](5.png)  
 
