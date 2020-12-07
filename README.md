@@ -35,8 +35,7 @@ Features proposed for UX design:
 ![image](33.png)  
 ![image](4.png)  
 ![image](55.png)  
-
-Jane's Scenario  
+### Jane's Scenario  
 Jnae is 50 years old and hse is mother of 2 kids. She lives in the metropolitan area of Los Angeles and works as an insurance agent. During this unpleasant time, she lacks time of working and also having to care of their children at home due to schools closing down. She mostly take cares of her lunch from take out food and struggles to take balanced meals.   
 
 Jane feels like she spends too much money on her lunch. She decieds to pack her lunch before going to work. She does not have enough time to pack a decent lunch, so she brings her phone out and searches for a quick, easy, and healthy recipe. She opens "CookCart" and clicks on the "lunch" category. She sees lists of options, and is having hard time deciding her lunch menu. She cliks on the filter and applies the "short cooking time" and sees the quick recipes that she can make at this hour. She picks on the pasta salad for her lunch today and head to the refrigerator to see if she has all the ingredients. She has all the ingredients, but does not have lettuce. She adds the recipe in to her cart, and remove all the other ingredients that she has on the list. She moves on to delivery section and picks the closest grocery store from her home and proceeds to check out. She tracks her order and it states that it will arrive in 15 minuntes. During the wait, she prepares for other ingredients by watching the video and receives a notification of the ingredients being deliverd. She heads to the door and recieves the ingredients. She cuts the lettuce and finish her last step of preparing the dish. She made it on time and is ready to go to work without any food wastes from her cooking. She is very satisfied with her experience with CookCart and leaves the house to work.   
