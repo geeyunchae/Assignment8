@@ -1,4 +1,4 @@
-#CookCart
+# CookCart
 
 DH150 UX+UI by GeeYun Chae
 
@@ -31,7 +31,7 @@ Features proposed for UX design:
 - Efficient design to let the users do grocery shopping through the app.
 ![image](33.png)  
 ![image](4.png)  
-![image](5.png)  
+![image](55.png)  
 
 Jane's Scenario  
 Jnae is 50 years old and hse is mother of 2 kids. She lives in the metropolitan area of Los Angeles and works as an insurance agent. During this unpleasant time, she lacks time of working and also having to care of their children at home due to schools closing down. She mostly take cares of her lunch from take out food and struggles to take balanced meals.   
