@@ -60,7 +60,7 @@ I reorganized the categories on the main menu from Appetizers, Main Dishes, Popu
 [To view the full high-fidelity](https://github.com/geeyunchae/DH150-Assignment7).  
 
 ## Pitch Video
-[![Pitch Video](http://img.youtube.com/vi//0.jpg)](https://youtu.be/elUE-e_t5Wk)
+[![Pitch Video](http://img.youtube.com/vi/https://youtu.be/elUE-e_t5Wk/0.jpg)](https://youtu.be/elUE-e_t5Wk)
 
 ## Conclusion
 What I've learned through DH150 CookCart design process:
