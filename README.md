@@ -33,7 +33,7 @@ The UX storytelling is a powerful tool that allows to shift one's perspective in
 Features proposed for UX design:
 - Easier access throughout the web with consistency (in design/ layout)
 - Efficient design to let the users do grocery shopping through the app.  
-![image](map.jpg) 
+![image](mapp.jpg) 
 ### Jane's Scenario  
 Jnae is 50 years old and hse is mother of 2 kids. She lives in the metropolitan area of Los Angeles and works as an insurance agent. During this unpleasant time, she lacks time of working and also having to care of their children at home due to schools closing down. She mostly take cares of her lunch from take out food and struggles to take balanced meals.   
 
