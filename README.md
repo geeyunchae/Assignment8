@@ -1,6 +1,6 @@
 # CookCart
 
-![image](logo.jpg)
+![image](logo2.jpg)
 
 DH150 UX+UI by GeeYun Chae
 
