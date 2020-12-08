@@ -43,8 +43,9 @@ Jane feels like she spends too much money on her lunch. She decieds to pack her 
 The purpose of this low-fidelity prototype is to test the user interface with the prototype. The flow of the user's naviagtion along the app will test the usability and the level of utilization of the app. We will specifically focus on:  
 - to begin working through how exactly the user will interact with the application.
 - to learn how to use low-fidelity prototyping in the earrly stages of design.  
+![image](low.jpg)
 [To view the full low-fidelity prototype](https://github.com/geeyunchae/DH150-assignment6)
-### Wireframe and Graphical Design Element Variation. 
+## Wireframe and Graphical Design Element Variation. 
 ![image](6.png)
 
 ## High-fildelity Prototype. 
