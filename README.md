@@ -59,6 +59,9 @@ I reorganized the categories on the main menu from Appetizers, Main Dishes, Popu
 [![Pitch Video](http://img.youtube.com/vi/uC4VnwqTMFY/0.jpg)](https://youtube.com/embed/uC4VnwqTMFY)  
 [To view the full high-fidelity](https://github.com/geeyunchae/DH150-Assignment7).  
 
+## Pitch Video
+[![Pitch Video](http://img.youtube.com/vi/elUE-e_t5Wk/0.jpg)](https://youtu.be/elUE-e_t5Wk)
+
 ## Conclusion
 What I've learned through DH150 CookCart design process:
 - Check accessibility multiple of times: I learned that in order to check accessibility, it requires datas from different perspectives. I was able to collect data and testing results from different individuals to make the app more accessible. People had different understanding and habits on using the app in general. I tried to keep the consistency where people are familiar with when using the app to make it easy to use for various aged groups.
