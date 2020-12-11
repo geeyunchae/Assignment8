@@ -56,6 +56,7 @@ please click on the image for the prototype
 ## Evaluation and Revision History
 I reorganized the categories on the main menu from Appetizers, Main Dishes, Popular Dishes, and Desserts to Appetizers, Breakfast,Lunch, Dinner. I reorgnized the categories, so that the user's search can arrive in more satisfying results. Instead of placing the filter bar underneath the banner, I embedded the filter option into an icon on the upper left hand corner. I also added a personal notification on the right hand corner, so that the user can check their order status and updates after they place their orders. Additionally, instead of listing the ingredients on the check out page, I created a new page for the check out section to minimize confusion. Using the color contrast report was very helpful to test different fonts with background color to end up with better design with higher accessibility. From the feedbacks, I changed the fonts to more darker color and enlarged the crucial function buttons, so that it is more visible for the users. From the user personas and tasks, I mainly focused on the easy-to-use functions and to maximze the convenience of the users in different ages and aspects.  
 ![image](design.jpg)
+![image](newww.jpg)
 [![Pitch Video](http://img.youtube.com/vi/uC4VnwqTMFY/0.jpg)](https://youtube.com/embed/uC4VnwqTMFY)  
 [To view the full high-fidelity](https://github.com/geeyunchae/DH150-Assignment7).  
 
